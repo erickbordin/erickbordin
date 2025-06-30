@@ -1,7 +1,9 @@
 ## Érick Bordin
 
 Me chamo **Érick Souza Bordin**, tenho 16 anos e iniciei minha jornada na programação recentemente. Atualmente, estudo no **IFSul de Gravataí**, onde curso o **Técnico em Informática para Internet**, na modalidade integrada ao ensino médio.
+
 Desde que comecei a aprender programação, tenho me dedicado com entusiasmo ao desenvolvimento de sistemas, com destaque para as linguagens **C**, **C++**, **HTML**, **CSS** e **JavaScript**. Estou sempre em busca de aprimorar meus conhecimentos e explorar novas tecnologias que possam expandir minhas habilidades.
+
 Sou movido pela curiosidade, pelo aprendizado contínuo e pelo desejo de criar soluções criativas e funcionais. Além de fortalecer minha base em programação e desenvolvimento front-end, tenho grande interesse em aprender mais sobre **back-end**, com o objetivo de construir aplicações completas e robustas. Acredito na importância de desenvolver uma visão ampla e integrada das diferentes áreas da tecnologia.
 
 <p align="left">
@@ -90,8 +92,25 @@ Sou movido pela curiosidade, pelo aprendizado contínuo e pelo desejo de criar s
 
 <br/>
 <br/>
-## 📊 Estatísticas
-<p> <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=erickbordin&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-<img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickbordin&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 
+---
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=erickbordin&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+      align="left" 
+      alt="GitHub Top Langs" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickbordin&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 </p>
+
