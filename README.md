@@ -93,7 +93,6 @@ Sou movido pela curiosidade, pelo aprendizado contínuo e pelo desejo de criar s
 <br/>
 <br/>
 
----
 
 ### 📊 Estatísticas
 
