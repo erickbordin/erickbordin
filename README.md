@@ -1,6 +1,6 @@
 ## Érick Bordin
 
-**'Desenvolvedor iniciante'**
+**`Desenvolvedor iniciante`**
 
 Me chamo **Érick Souza Bordin**, tenho 16 anos e iniciei minha jornada na programação recentemente. Atualmente, estudo no **IFSul de Gravataí**, onde curso o **Técnico em Informática para Internet**, na modalidade integrada ao ensino médio.
 
