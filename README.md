@@ -98,20 +98,18 @@ Sou movido pela curiosidade, pelo aprendizado contínuo e pelo desejo de criar s
 
 ### Estatísticas
 
-<p>
+<p align="left">
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=erickbordin&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=erickbordin&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=43200&locale=pt-br" 
   />
 
   <img 
-      align="left" 
-      alt="GitHub Top Langs" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickbordin&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    alt="Top Linguagens" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickbordin&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=43200" 
   />
 </p>
+
 
