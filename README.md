@@ -2,11 +2,11 @@
 
 **`Desenvolvedor iniciante`**
 
-Me chamo **Érick Souza Bordin**, tenho 16 anos e iniciei minha jornada na programação recentemente. Atualmente, estudo no **IFSul de Gravataí**, onde curso o **Técnico em Informática para Internet**, na modalidade integrada ao ensino médio.
+Me chamo Érick Souza Bordin, tenho 16 anos e iniciei minha jornada na programação recentemente. Atualmente, estudo no IFSul de Gravataí, onde curso o **Técnico de Tecnologia da Informação**, na modalidade integrada ao ensino médio.
 
 Desde que comecei a aprender programação, tenho me dedicado com entusiasmo ao desenvolvimento de sistemas, com destaque para as linguagens **C**, **C++**, **HTML**, **CSS** e **JavaScript**. Estou sempre em busca de aprimorar meus conhecimentos e explorar novas tecnologias que possam expandir minhas habilidades.
 
-Sou movido pela curiosidade, pelo aprendizado contínuo e pelo desejo de criar soluções criativas e funcionais. Além de fortalecer minha base em programação e desenvolvimento front-end, tenho grande interesse em aprender mais sobre **back-end**, com o objetivo de construir aplicações completas e robustas. Acredito na importância de desenvolver uma visão ampla e integrada das diferentes áreas da tecnologia.
+Sou movido pela curiosidade, pelo aprendizado contínuo e pelo desejo de criar soluções criativas e funcionais. Além de fortalecer minha base em programação e desenvolvimento front-end, tenho grande interesse em aprender mais sobre back-end, com o objetivo de construir aplicações completas e robustas. Acredito na importância de desenvolver uma visão ampla e integrada das diferentes áreas da tecnologia.
 
 <p align="left">
     <a href="https://github.com/erickbordin?tab=repositories&sort=stargazers">
