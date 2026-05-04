@@ -59,11 +59,8 @@
 **Backend & Infra**
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0d0d0d?style=for-the-badge&logo=springboot&logoColor=22c55e)
-
 ![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=38bdf8)
-
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0d0d0d?style=for-the-badge&logo=rabbitmq&logoColor=f97316)
-
 ![Retrofit](https://img.shields.io/badge/Retrofit-0d0d0d?style=for-the-badge&logo=square&logoColor=22c55e)
 
 **Data**
