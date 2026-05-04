@@ -62,6 +62,7 @@
 
 **Data**
 
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=38bdf8)
 ![Flyway](https://img.shields.io/badge/Flyway-0d0d0d?style=for-the-badge&logo=flyway&logoColor=cc0200)
 
