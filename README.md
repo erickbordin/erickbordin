@@ -103,9 +103,9 @@ public class Erick extends Human {
 <tr>
 <td width="50%">
 
-**🏃 XXXXX ** &nbsp;`Mar 2026 – Presente`
+** project ** &nbsp;`Mar 2026 – Presente`
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+developing -- wait
 
 `Java` `Spring Boot` `PostgreSQL` `Flyway` `RabbitMQ` `Claude API` `Garmin/Polar`
 
