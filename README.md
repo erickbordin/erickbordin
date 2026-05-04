@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/IFSUL%20·%20TSI%202025–2028-0d0d0d?style=for-the-badge&logo=graduation-cap&logoColor=38bdf8"/>
+
 
 <br/><br/>
 
@@ -36,7 +36,7 @@ public class Erick extends Human {
 
     private final String role     = "Java Developer at @Syonet";
     private final String location = "Gravataí, Brasil 🇧🇷";
-    private final String degree   = "TSI · IFSUL (2025 – 2028)";
+    private final String degree   = "TI · IFSUL (2025 – 2028)";
     private final String[] langs  = { "Português (Nativo)",
                                       "Inglês (Avançado)",
                                       "Espanhol (Intermediário)" };
