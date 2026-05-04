@@ -2,9 +2,9 @@
 
 ```
   name        → Érick Souza Bordin
-  role        → Desenvolvedor de Software @ Syonet
-  location    → Gravataí, Brasil
-  languages   → Português (Nativo) - Inglês (Avançado)
+  role        → Software Developer @ Syonet
+  location    → Gravataí, Brazil
+  languages   → Portuguese (Native) - English (Advanced)
   focus       → Backend - Clean Architecture - APIs REST
 ```
 
@@ -13,16 +13,18 @@
 ### `// experiência`
 
 ```
-▸ Syonet                              Mar 2026 – Presente
-  Java Software Developer (Intern) - Remoto
-  → Projetos de alta escalabilidade e performance  
-  → Integrações com APIs REST
-  → Java, Quarkus, MongoDB, Postgre, REST APIs, Spring Boot
+▸ Syonet                              Mar 2026 – Present
+Java Software Developer (Intern) - Remote
 
-▸ Código Kid                          Mar 2025 – Fev 2026
-  Instrutor de Programação e Robótica - Cachoeirinha
-  → Python, JavaScript, Lua — lógica e desenvolvimento de jogos
-  → C++ e Arduino — robótica e hardware
+→ High scalability and performance projects
+→ REST API integrations
+→ Java, Quarkus, MongoDB, Postgre, REST APIs, Spring Boot
+
+▸ Código Kid                          Mar 2025 – Feb 2026
+Programming and Robotics Instructor - Cachoeirinha
+
+→ Python, JavaScript, Lua — logic and game development
+→ C++ and Arduino — robotics and hardware
 ```
 
 ---
