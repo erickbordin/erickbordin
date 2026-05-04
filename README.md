@@ -49,11 +49,8 @@
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=f59e0b)
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=3b82f6)
-
 ![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=a78bfa)
-
 ![C++](https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=ef4444)
 
 **Backend & Infra**
@@ -66,15 +63,12 @@
 **Data**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=38bdf8)
-
 ![Flyway](https://img.shields.io/badge/Flyway-0d0d0d?style=for-the-badge&logo=flyway&logoColor=cc0200)
 
 **Automation & APIs**
 
 ![Google Apps Script](https://img.shields.io/badge/Apps%20Script-0d0d0d?style=for-the-badge&logo=google&logoColor=f59e0b)
-
 ![Microsoft Graph](https://img.shields.io/badge/Microsoft%20Graph-0d0d0d?style=for-the-badge&logo=microsoft&logoColor=3b82f6)
-
 ![Claude API](https://img.shields.io/badge/Anthropic%20Claude-0d0d0d?style=for-the-badge&logo=anthropic&logoColor=a78bfa)
 
 </div>
