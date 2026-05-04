@@ -68,7 +68,6 @@
 **Automation & APIs**
 
 ![Google Apps Script](https://img.shields.io/badge/Apps%20Script-0d0d0d?style=for-the-badge&logo=google&logoColor=f59e0b)
-![Microsoft Graph](https://img.shields.io/badge/Microsoft%20Graph-0d0d0d?style=for-the-badge&logo=microsoft&logoColor=3b82f6)
 ![Claude API](https://img.shields.io/badge/Anthropic%20Claude-0d0d0d?style=for-the-badge&logo=anthropic&logoColor=a78bfa)
 
 </div>
