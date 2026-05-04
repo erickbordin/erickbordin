@@ -1,19 +1,11 @@
 ### `// whoami`
 
-```java
-@Developer
-public class Erick extends Human {
-
-    private final String role     = "Java Developer at @Syonet";
-
-    private final String location = "Gravataí, Brasil 🇧🇷";
-
-    private final String degree   = "TI · IFSUL (2025 – 2028)";
-
-    private final String[] langs  = { "Português (Nativo)",
-                                      "Inglês (Avançado)",
-                                      "Espanhol (Intermediário)" };
-}
+```
+  name        → Érick Souza Bordin
+  role        → Desenvolvedor de Software @ Syonet
+  location    → Gravataí, Brasil
+  languages   → Português (Nativo) - Inglês (Avançado)
+  focus       → Backend - Clean Architecture - APIs REST
 ```
 
 ---
