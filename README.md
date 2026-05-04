@@ -1,33 +1,3 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Érick%20Bordin&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Developer%20%7C%20Spring%20Boot%20%7C%20Microsserviços&descAlignY=58&descSize=18&animation=fadeIn"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=Estagiário+de+Desenvolvimento+%40+Syonet;Construindo+o+SeuCorre+—+treinos+com+IA;Java+%7C+Spring+Boot+%7C+PostgreSQL+%7C+Docker;Inglês+Avançado+·+Aberto+a+oportunidades" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<a href="mailto:ericksouzabordin3@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ef4444"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/erick-bordin">
-  <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/>
-</a>
-&nbsp;
-<a href="https://github.com/erickbordin">
-  <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff"/>
-</a>
-&nbsp;
-
-
-<br/><br/>
-
-</div>
-
----
-
 ### `$ whoami`
 
 ```java
