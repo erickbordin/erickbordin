@@ -132,42 +132,7 @@ Solução ao PicPay Backend Challenge com Java 21 e Spring Boot. API RESTful com
 </td>
 <td width="50%">
 
-**🛒 market-java**
 
-Projeto de consolidação de OOP em Java simulando um sistema de mercado. Foco em modelagem de domínio limpa e padrões de design.
-
-`Java` `OOP` `Design Patterns`
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-### `// stats`
-
-<div align="center">
-
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=erickbordin&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&count_private=true"/>
-&nbsp;
-<img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=erickbordin&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa"/>
-
-<br/><br/>
-
-<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickbordin&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=e2e8f0&langs_count=6"/>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erickbordin/erickbordin/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erickbordin/erickbordin/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/erickbordin/erickbordin/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
