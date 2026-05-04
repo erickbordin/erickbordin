@@ -1,23 +1,26 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Érick%20Bordin&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20·%20Java%20%26%20Spring%20Boot&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Érick%20Bordin&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20·%20Java%20%7C%20Spring%20Boot%20%7C%20Microsserviços&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-<!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=500&lines=Building+backends+that+just+work.;Java+21+%7C+Spring+Boot+%7C+Clean+Architecture;Always+learning%2C+always+shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=Estagiário+de+Desenvolvimento+%40+Syonet;Construindo+o+SeuCorre+—+treinos+com+IA;Java+%7C+Spring+Boot+%7C+PostgreSQL+%7C+Docker;Inglês+Avançado+·+Aberto+a+oportunidades" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- PROFILE BADGES -->
-<a href="https://linkedin.com/in/erick-bordin">
-  <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/>
+<a href="mailto:ericksouzabordin3@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ef4444"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20to%20Work-0A0A0A?style=for-the-badge&logo=circle&logoColor=22c55e"/>
+<a href="https://linkedin.com/in/erick-bordin">
+  <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/>
+</a>
 &nbsp;
-<img src="https://img.shields.io/badge/PRO-0A0A0A?style=for-the-badge&logo=github&logoColor=f59e0b"/>
+<a href="https://github.com/erickbordin">
+  <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/IFSUL%20·%20TSI%202025–2028-0d0d0d?style=for-the-badge&logo=graduation-cap&logoColor=38bdf8"/>
 
 <br/><br/>
 
@@ -25,111 +28,132 @@
 
 ---
 
-<!-- ABOUT ME -->
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickbordin&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=e2e8f0&langs_count=6"/>
-
 ### `$ whoami`
 
 ```java
 @Developer
 public class Erick extends Human {
 
-    private final String role     = "Software Developer @ Syonet";
-    private final String location = "Brazil 🇧🇷";
-    private final String focus    = "Backend · Clean Architecture · AI";
+    private final String role     = "Estagiário de Dev @ Syonet";
+    private final String location = "Gravataí, Brasil 🇧🇷";
+    private final String degree   = "TSI · IFSUL (2025 – 2028)";
+    private final String[] langs  = { "Português (Nativo)",
+                                      "Inglês (Avançado)",
+                                      "Espanhol (Intermediário)" };
 
     public String[] currentlyBuilding() {
         return new String[]{
-            "SeuCorre — AI-powered running coach API",
-            "Spring Boot · PostgreSQL · Flyway · JWT"
+            "SeuCorre — plataforma de treinos adaptativos com IA",
+            "Integrações Microsoft Graph/Outlook · Java + Retrofit",
+            "Mensageria assíncrona com RabbitMQ"
         };
     }
 
-    public String[] passions() {
+    public String[] superpowers() {
         return new String[]{
-            "Clean code that reads like prose",
-            "Systems that scale without drama",
-            "Coffee-driven development ☕"
+            "APIs REST resilientes e bem mapeadas",
+            "Diagnóstico de bugs em microsserviços 🔍",
+            "Ensinar programação para quem nunca viu código 🎓"
         };
     }
 }
 ```
 
-<br clear="right"/>
+---
+
+### `// experiência`
+
+```
+▸ Syonet                              Mar 2026 – Presente
+  Estagiário de Desenvolvimento · Remoto
+  → Integrações Microsoft Graph/Outlook com Java + Retrofit
+  → Crawlers para portais automotivos (captura Marca/Modelo → CRM)
+  → Diagnóstico de inconsistências em larga escala · PostgreSQL + logs
+
+▸ Código Kid                          Mar 2025 – Fev 2026
+  Instrutor de Programação e Robótica · Cachoeirinha
+  → Python, JavaScript, Lua — lógica e desenvolvimento de jogos
+  → C++ e Arduino — robótica e hardware
+  → Mentoria de alunos de 7 a 18 anos em projetos do zero ao deploy
+```
 
 ---
 
-<!-- TECH STACK -->
-<div align="center">
-
 ### `// tech stack`
 
-**Backend**
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java%2021-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=f59e0b)
+**Linguagens**
+
+![Java](https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=f59e0b)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=38bdf8)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=3b82f6)
+![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=a78bfa)
+![C++](https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=ef4444)
+
+**Backend & Infra**
+
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0d0d0d?style=for-the-badge&logo=springboot&logoColor=22c55e)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-0d0d0d?style=for-the-badge&logo=springsecurity&logoColor=22c55e)
-![Hibernate](https://img.shields.io/badge/Hibernate-0d0d0d?style=for-the-badge&logo=hibernate&logoColor=59b3a3)
+![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=38bdf8)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0d0d0d?style=for-the-badge&logo=rabbitmq&logoColor=f97316)
+![Retrofit](https://img.shields.io/badge/Retrofit-0d0d0d?style=for-the-badge&logo=square&logoColor=22c55e)
 
-**Data**
+**Dados**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=38bdf8)
 ![Flyway](https://img.shields.io/badge/Flyway-0d0d0d?style=for-the-badge&logo=flyway&logoColor=cc0200)
-![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=for-the-badge&logo=redis&logoColor=ef4444)
 
-**Frontend & Tools**
+**Automação & APIs**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=f59e0b)
-![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=38bdf8)
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=f97316)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-0d0d0d?style=for-the-badge&logo=intellijidea&logoColor=a78bfa)
+![Google Apps Script](https://img.shields.io/badge/Apps%20Script-0d0d0d?style=for-the-badge&logo=google&logoColor=f59e0b)
+![Microsoft Graph](https://img.shields.io/badge/Microsoft%20Graph-0d0d0d?style=for-the-badge&logo=microsoft&logoColor=3b82f6)
+![Claude API](https://img.shields.io/badge/Anthropic%20Claude-0d0d0d?style=for-the-badge&logo=anthropic&logoColor=a78bfa)
 
 </div>
 
 ---
 
-<!-- PINNED PROJECTS -->
-### `// featured projects`
+### `// projetos em destaque`
 
 <div align="center">
 <table>
 <tr>
 <td width="50%">
 
-**[🏃 SeuCorre](https://github.com/erickbordin/seucorre)**
+**🏃 SeuCorre** &nbsp;`Mar 2026 – Presente`
 
-AI-powered running coach. Generates personalized training plans, tracks weekly progress and adapts based on athlete data.
+Plataforma de treinos adaptativos para corredores. Gera planos personalizados com base em fisiologia esportiva, integra Claude API para análise de check-ins e reescreve treinos dinamicamente conforme percepção de esforço.
 
-`Java 21` `Spring Boot` `PostgreSQL` `Flyway` `JWT`
+`Java` `Spring Boot` `PostgreSQL` `Flyway` `RabbitMQ` `Claude API` `Garmin/Polar`
 
 </td>
 <td width="50%">
 
-**[🛒 market-java](https://github.com/erickbordin/market-java)**
+**🤖 Assistente Código Kid** &nbsp;`Set 2025 – Presente`
 
-OOP consolidation project simulating a market system. Focus on clean domain modeling and Java fundamentals.
+Solução de automação escolar **em produção**. Chatbot para gestão de alunos e reagendamento de aulas, integrado ao Google Sheets via Apps Script API. Eliminou buscas manuais no dia a dia da escola.
 
-`Java` `OOP` `Design Patterns`
+`JavaScript` `Google Apps Script` `Google Sheets API` `Regex`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**[💳 picpay](https://github.com/erickbordin/picpay)**
+**💳 picpay**
 
-Solution to the PicPay Backend Challenge. RESTful API with Spring Boot 3, transaction validation and async notifications.
+Solução ao PicPay Backend Challenge com Java 21 e Spring Boot. API RESTful com validação de transações e notificações assíncronas.
 
 `Java 21` `Spring Boot` `REST API`
 
 </td>
 <td width="50%">
 
-**[🤖 chatbot-codigokid](https://github.com/erickbordin/chatbot-codigokid)**
+**🛒 market-java**
 
-Web chatbot for school management — tracks deadlines, makeup classes and student logins with a responsive chat UI.
+Projeto de consolidação de OOP em Java simulando um sistema de mercado. Foco em modelagem de domínio limpa e padrões de design.
 
-`JavaScript` `Node.js` `HTML/CSS`
+`Java` `OOP` `Design Patterns`
 
 </td>
 </tr>
@@ -138,10 +162,9 @@ Web chatbot for school management — tracks deadlines, makeup classes and stude
 
 ---
 
-<!-- GITHUB STATS -->
-<div align="center">
-
 ### `// stats`
+
+<div align="center">
 
 <img height="160px" src="https://github-readme-stats.vercel.app/api?username=erickbordin&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&count_private=true"/>
 &nbsp;
@@ -149,7 +172,10 @@ Web chatbot for school management — tracks deadlines, makeup classes and stude
 
 <br/><br/>
 
-<!-- CONTRIBUTION SNAKE -->
+<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickbordin&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=e2e8f0&langs_count=6"/>
+
+<br/><br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erickbordin/erickbordin/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erickbordin/erickbordin/output/github-contribution-grid-snake.svg"/>
@@ -160,11 +186,8 @@ Web chatbot for school management — tracks deadlines, makeup classes and stude
 
 ---
 
-<!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 <div align="center">
-  <sub>
-    <code>while (alive) { eat(); sleep(); code(); repeat(); }</code>
-  </sub>
+  <sub><code>instrutor que virou dev · dev que não parou de ensinar</code></sub>
 </div>
