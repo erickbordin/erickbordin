@@ -103,7 +103,7 @@ public class Erick extends Human {
 <tr>
 <td width="50%">
 
-** project ** &nbsp;`Mar 2026 – Presente`
+** project** &nbsp;`Mar 2026 – Presente`
 
 developing -- wait
 
