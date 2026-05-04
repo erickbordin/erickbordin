@@ -52,7 +52,7 @@ public class Erick extends Human {
   Estagiário de Desenvolvimento · Remoto
   → Projetos de alta escalabilidade e performance  
   → Integrações com APIs REST
-  → Java, Quarkus, NoSQL, SQL, REST APIs, Spring framework
+  → Java, Quarkus, NoSQL, SQL, REST APIs, Spring Boot
 
 ▸ Código Kid                          Mar 2025 – Fev 2026
   Instrutor de Programação e Robótica · Cachoeirinha
