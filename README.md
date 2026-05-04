@@ -5,8 +5,11 @@
 public class Erick extends Human {
 
     private final String role     = "Java Developer at @Syonet";
+
     private final String location = "Gravataí, Brasil 🇧🇷";
+
     private final String degree   = "TI · IFSUL (2025 – 2028)";
+
     private final String[] langs  = { "Português (Nativo)",
                                       "Inglês (Avançado)",
                                       "Espanhol (Intermediário)" };
@@ -19,13 +22,13 @@ public class Erick extends Human {
 
 ```
 ▸ Syonet                              Mar 2026 – Presente
-  Estagiário de Desenvolvimento · Remoto
+  Java Software Developer - Remoto
   → Projetos de alta escalabilidade e performance  
   → Integrações com APIs REST
   → Java, Quarkus, MongoDB, Postgre, REST APIs, Spring Boot
 
 ▸ Código Kid                          Mar 2025 – Fev 2026
-  Instrutor de Programação e Robótica · Cachoeirinha
+  Instrutor de Programação e Robótica - Cachoeirinha
   → Python, JavaScript, Lua — lógica e desenvolvimento de jogos
   → C++ e Arduino — robótica e hardware
 ```
