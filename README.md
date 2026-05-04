@@ -95,12 +95,9 @@ Solução ao PicPay Backend Challenge com Java 21 e Spring Boot. API RESTful com
 `Java 21` `Spring Boot` `REST API`
 
 </td>
-<td width="50%">
 
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
-<div align="center">
-  <sub><code>instrutor que virou dev · dev que não parou de ensinar</code></sub>
-</div>
+
+
