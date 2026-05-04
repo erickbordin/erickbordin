@@ -34,7 +34,7 @@
 @Developer
 public class Erick extends Human {
 
-    private final String role     = "Estagiário de Dev @ Syonet";
+    private final String role     = "Java Developer at @Syonet";
     private final String location = "Gravataí, Brasil 🇧🇷";
     private final String degree   = "TSI · IFSUL (2025 – 2028)";
     private final String[] langs  = { "Português (Nativo)",
@@ -48,14 +48,6 @@ public class Erick extends Human {
             "Mensageria assíncrona com RabbitMQ"
         };
     }
-
-    public String[] superpowers() {
-        return new String[]{
-            "APIs REST resilientes e bem mapeadas",
-            "Diagnóstico de bugs em microsserviços 🔍",
-            "Ensinar programação para quem nunca viu código 🎓"
-        };
-    }
 }
 ```
 
@@ -66,15 +58,14 @@ public class Erick extends Human {
 ```
 ▸ Syonet                              Mar 2026 – Presente
   Estagiário de Desenvolvimento · Remoto
-  → Integrações Microsoft Graph/Outlook com Java + Retrofit
-  → Crawlers para portais automotivos (captura Marca/Modelo → CRM)
+  → Integrações com APIs para CRM 
+  → Crawlers para portais automotivos 
   → Diagnóstico de inconsistências em larga escala · PostgreSQL + logs
 
 ▸ Código Kid                          Mar 2025 – Fev 2026
   Instrutor de Programação e Robótica · Cachoeirinha
   → Python, JavaScript, Lua — lógica e desenvolvimento de jogos
   → C++ e Arduino — robótica e hardware
-  → Mentoria de alunos de 7 a 18 anos em projetos do zero ao deploy
 ```
 
 ---
