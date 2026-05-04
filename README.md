@@ -40,14 +40,6 @@ public class Erick extends Human {
     private final String[] langs  = { "Português (Nativo)",
                                       "Inglês (Avançado)",
                                       "Espanhol (Intermediário)" };
-
-    public String[] currentlyBuilding() {
-        return new String[]{
-            "SeuCorre — plataforma de treinos adaptativos com IA",
-            "Integrações Microsoft Graph/Outlook · Java + Retrofit",
-            "Mensageria assíncrona com RabbitMQ"
-        };
-    }
 }
 ```
 
@@ -58,9 +50,9 @@ public class Erick extends Human {
 ```
 ▸ Syonet                              Mar 2026 – Presente
   Estagiário de Desenvolvimento · Remoto
-  → Integrações com APIs para CRM 
-  → Crawlers para portais automotivos 
-  → Diagnóstico de inconsistências em larga escala · PostgreSQL + logs
+  → Projetos de alta escalabilidade e performance  
+  → Integrações com APIs REST
+  → Java, Quarkus, NoSQL, SQL, REST APIs, Spring framework
 
 ▸ Código Kid                          Mar 2025 – Fev 2026
   Instrutor de Programação e Robótica · Cachoeirinha
