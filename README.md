@@ -22,7 +22,7 @@ public class Erick extends Human {
 
 ```
 ▸ Syonet                              Mar 2026 – Presente
-  Java Software Developer - Remoto
+  Java Software Developer (Intern) - Remoto
   → Projetos de alta escalabilidade e performance  
   → Integrações com APIs REST
   → Java, Quarkus, MongoDB, Postgre, REST APIs, Spring Boot
