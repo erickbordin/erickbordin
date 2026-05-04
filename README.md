@@ -103,9 +103,9 @@ public class Erick extends Human {
 <tr>
 <td width="50%">
 
-**🏃 SeuCorre** &nbsp;`Mar 2026 – Presente`
+**🏃 XXXXX ** &nbsp;`Mar 2026 – Presente`
 
-Plataforma de treinos adaptativos para corredores. Gera planos personalizados com base em fisiologia esportiva, integra Claude API para análise de check-ins e reescreve treinos dinamicamente conforme percepção de esforço.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 `Java` `Spring Boot` `PostgreSQL` `Flyway` `RabbitMQ` `Claude API` `Garmin/Polar`
 
