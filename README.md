@@ -28,7 +28,7 @@
 
   → REST API integrations
 
-  → Java, Quarkus, MongoDB, Postgre, REST APIs, Spring Boot
+  → Java, Quarkus, MongoDB, Postgre, REST APIs, Spring Boot, TypeScript
 
 ▸ Código Kid                          Mar 2025 – Feb 2026
 
