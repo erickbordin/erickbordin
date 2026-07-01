@@ -85,9 +85,9 @@
 
 <td width="50%">
 
-**saas** &nbsp;`Mar 2026 – Present`
+**SeuCorre ** &nbsp;`Mar 2026 – Present`
 
-developing -- wait
+developing -- SaaS
 
 `Java` `Spring Boot` `PostgreSQL` `Flyway` `RabbitMQ` `Claude API` `Garmin/Polar`
 
@@ -104,15 +104,3 @@ School automation solution in production. Chatbot for student management and cla
 </td>
 
 </tr>
-
-<tr>
-
-<td width="50%">
-
-**💳 picpay**
-
-Solution for the PicPay Backend Challenge using Java 21 and Spring Boot. RESTful API featuring transaction validation and asynchronous notifications.
-
-`Java 21` `Spring Boot` `REST API`
-
-</td>
