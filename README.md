@@ -85,7 +85,7 @@
 
 <td width="50%">
 
-**SeuCorre ** &nbsp;`Mar 2026 – Present`
+**SeuCorre** &nbsp;`Mar 2026 – Present`
 
 developing -- SaaS
 
