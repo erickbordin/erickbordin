@@ -61,7 +61,11 @@
 
 <div align="center">
 
-![My GitHub Space Shooter](https://raw.githubusercontent.com/erickbordin/erickbordin/main/game.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erickbordin/erickbordin/github-breakout/images/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erickbordin/erickbordin/github-breakout/images/breakout-light.svg" />
+  <img alt="github breakout contribution graph" src="https://raw.githubusercontent.com/erickbordin/erickbordin/github-breakout/images/breakout-light.svg" />
+</picture>
 
 </div>
 
