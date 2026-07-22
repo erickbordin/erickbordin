@@ -8,7 +8,7 @@
 
 ---
 
-### `// Software Developer @ Syonet`
+### `// Software Developer `
 ```
   Java Software Developer (Intern) - Remote
   → High scalability and performance projects 
