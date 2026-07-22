@@ -1,23 +1,42 @@
-name: update space shooter game
+name: generate breakout svg
 
 on:
   schedule:
-    - cron: "0 0 * * *" # roda 1x por dia
+    - cron: "0 */24 * * *" # roda 1x por dia
   workflow_dispatch: # permite rodar manualmente também
 
-permissions:
-  contents: write
-
 jobs:
-  update-game:
+  generate-svg:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v6
-        with:
-          fetch-depth: 2 # necessário para o action funcionar
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - uses: czl9707/gh-space-shooter@v2
+      - name: generate SVG
+        uses: cyprieng/github-breakout@v1
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: "game.gif"
-          strategy: "random"
+          github_username: ${{ github.repository_owner }}
+
+      - name: Move generated SVGs to temp
+        run: |
+          mkdir -p /tmp/breakout-images
+          mv output/light.svg /tmp/breakout-images/breakout-light.svg
+          mv output/dark.svg /tmp/breakout-images/breakout-dark.svg
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and force-push SVGs to target branch
+        run: |
+          git checkout --orphan github-breakout
+          git rm -rf .
+          mkdir images
+          mv /tmp/breakout-images/* images/
+          git add images
+          git commit -m "chore: update GitHub breakout SVGs" || echo "No changes to commit"
+          git push --force origin github-breakout
