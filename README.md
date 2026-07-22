@@ -61,7 +61,7 @@
 
 <div align="center">
 
-![3D contribution graph](./profile-3d-contrib/profile-green.svg)
+![3D contribution graph](./profile-3d-contrib/profile-night-green.svg)
 
 </div>
 
