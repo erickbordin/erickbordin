@@ -61,14 +61,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=erickbordin&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=f59e0b&icon_color=3b82f6&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickbordin&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=f59e0b&text_color=c9d1d9" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=erickbordin&hide_border=true&background=0d0d0d&stroke=0d0d0d&ring=3b82f6&fire=f59e0b&currStreakLabel=c9d1d9" />
+![My GitHub Space Shooter](https://raw.githubusercontent.com/erickbordin/erickbordin/main/game.gif)
 
 </div>
 
