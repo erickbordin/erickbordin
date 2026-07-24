@@ -10,7 +10,7 @@
 
 ### `// Software Developer `
 ```
-  Java Software Developer (Intern) - Remote
+  Java Software Developer - Remote
   → High scalability and performance projects 
   → REST API integrations
   → Java, Quarkus, MongoDB, Postgre, REST APIs, Spring Boot, TypeScript
@@ -49,17 +49,6 @@
 
 </div>
 
----
-
-### `// git stats`
-
-<div align="center">
-
-![3D contribution graph](./profile-3d-contrib/profile-night-green.svg)
-
-</div>
-
----
 
 ### `// featured projects`
 
