@@ -1,7 +1,7 @@
 ### `// whoami`
 ```
   name        → Érick Souza Bordin
-  work        → Software Developer @Syonet
+  work        → Back-end Developer @ Syonet
   location    → Gravataí, Brazil
   languages   → Portuguese (Native) - English (Advanced)
 ```
