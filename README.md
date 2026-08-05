@@ -48,31 +48,3 @@
 ![Claude API](https://img.shields.io/badge/Anthropic%20Claude-0d0d0d?style=for-the-badge&logo=anthropic&logoColor=a78bfa)
 
 </div>
-
-
-### `// featured projects`
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-**SeuCorre** &nbsp;`Mar 2026 – Present`
-
-developing -- SaaS
-
-`Java` `Spring Boot` `PostgreSQL` `Flyway` `RabbitMQ` `Claude API` `Garmin/Polar`
-
-</td>
-<td width="50%">
-
-**🤖 Código Kid Assistant** &nbsp;`Sep 2025 – Present`
-
-School automation solution in production. Chatbot for student management and class rescheduling, integrated with Google Sheets via Apps Script API. Eliminated manual daily searches within the school environment.
-
-`JavaScript` `Google Apps Script` `Google Sheets API` `Regex`
-
-</td>
-</tr>
-</table>
-</div>
