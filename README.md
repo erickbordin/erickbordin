@@ -43,9 +43,4 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=38bdf8)
 ![Flyway](https://img.shields.io/badge/Flyway-0d0d0d?style=for-the-badge&logo=flyway&logoColor=cc0200)
 
-**Automation & APIs**
-
-![Google Apps Script](https://img.shields.io/badge/Apps%20Script-0d0d0d?style=for-the-badge&logo=google&logoColor=f59e0b)
-![Claude API](https://img.shields.io/badge/Anthropic%20Claude-0d0d0d?style=for-the-badge&logo=anthropic&logoColor=a78bfa)
-
 </div>
