@@ -11,9 +11,9 @@
 ### `// current work `
 ```
   Java Software Developer (Remote)
-  → Building high-scalability backend applications
+  → Developing scalable backend applications
   → REST API integrations
-  → AI-assisted development with Claude Code
+  → development with Claude Code
   → Java, Quarkus, Spring Boot, PostgreSQL, MongoDB, TypeScript
 ```
 
