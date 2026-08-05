@@ -1,16 +1,16 @@
 ### `// whoami`
 ```
   name        → Érick Souza Bordin
-  work        → Software Developer @ Syonet
+  work        → Software Developer @Syonet
   location    → Gravataí, Brazil
   languages   → Portuguese (Native) - English (Advanced)
 ```
 
 ---
 
-### `// Software Developer `
+### `// current work `
 ```
-  Java Software Developer - Remote
+  Java Software Developer (Remote)
   → High scalability and performance projects 
   → REST API integrations
   → Java, Quarkus, MongoDB, Postgre, REST APIs, Spring Boot, TypeScript
