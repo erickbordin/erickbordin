@@ -4,6 +4,7 @@
   work        → Back-end Developer @ Syonet
   location    → Gravataí, Brazil
   languages   → Portuguese (Native) - English (Advanced)
+  portfolio   → erickbordin.netlify.app
 ```
 
 ---
@@ -20,12 +21,17 @@
 
 ---
 
-### `// featured project`
+### `// featured projects`
 ```
   SeuCorre → AI running coach (Java, Spring Boot, Claude, Ollama)
   → LLM behind a swappable provider interface
   → deterministic guardrail on every model output
   → github.com/erickbordin/seucorre
+
+  psychology-api → practice manager for psychologists (Java 21, Spring Boot, React)
+  → health data: per-professional isolation tested, access audit trail
+  → rotating refresh-token session, access token only in memory
+  → github.com/erickbordin/psychology-api
 ```
 
 ---
