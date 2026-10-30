@@ -12,11 +12,10 @@
 ### `// current work `
 ```
   Backend Developer (Remote) — lead intake for an automotive CRM
-  → integrating LLMs into backend products (Claude, Ollama)
-  → guardrails, retries and fallback around model calls
+  → Quarkus microservices integrating automaker APIs (REST, RabbitMQ, MongoDB)
   → observability: Micrometer, Prometheus, Grafana
-  → building with AI agents (Claude Code, MCP)
-  → Java, Quarkus, Spring Boot, PostgreSQL, MongoDB, Redis
+  → investigating production with AI agents (Claude Code, MCP)
+  → Java, Quarkus, Java EE, Spring Boot, PostgreSQL, MongoDB, Redis
 ```
 
 ---
