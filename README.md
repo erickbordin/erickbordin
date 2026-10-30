@@ -18,7 +18,7 @@ Building with LLMs on the side: provider-agnostic model calls, guardrails, evals
 | Project | What it shows |
 |---|---|
 | [**SeuCorre**](https://github.com/erickbordin/seucorre) | AI running coach — LLM behind a swappable provider (Claude / Ollama), deterministic guardrail on every model output |
-| [**psychology-api**](https://github.com/erickbordin/psychology-api) | Health-data practice manager — tested per-professional isolation, access audit trail, rotating refresh tokens |
+| [**psych**](https://github.com/erickbordin/psych) | Health-data practice manager — tested per-professional isolation, access audit trail, rotating refresh tokens |
 
 ---
 
