@@ -3,8 +3,6 @@
 Backend developer at **Syonet** (lead intake for an automotive CRM) · Systems for Internet @ IFSul · Gravataí, Brazil
 Building with LLMs on the side: provider-agnostic model calls, guardrails, evals.
 
-[Portfolio](https://erickbordin.netlify.app) · [LinkedIn](https://www.linkedin.com/in/erick-bordin/)
-
 ---
 
 ### `// at work`
