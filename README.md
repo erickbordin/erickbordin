@@ -13,15 +13,6 @@ Building with LLMs on the side: provider-agnostic model calls, guardrails, evals
 
 ---
 
-### `// featured projects`
-
-| Project | What it shows |
-|---|---|
-| [**SeuCorre**](https://github.com/erickbordin/seucorre) | AI running coach — LLM behind a swappable provider (Claude / Ollama), deterministic guardrail on every model output |
-| [**psych**](https://github.com/erickbordin/psych) | Health-data practice manager — tested per-professional isolation, access audit trail, rotating refresh tokens |
-
----
-
 ### `// learning now`
 
 Python · LLM evals · LangGraph
